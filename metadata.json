@@ -1,0 +1,7 @@
+{
+  "name": "AI Calling Agent",
+  "description": "An AI-powered calling agent that simulates outbound calls to HR representatives, interacts naturally, and records conversation data for analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
